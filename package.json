@@ -1,0 +1,7 @@
+{
+  "name": "purescript-hedwig-starter",
+  "version": "0.1.0",
+  "dependencies": {
+    "purescript-hedwig": "^0.1.0"
+  }
+}
