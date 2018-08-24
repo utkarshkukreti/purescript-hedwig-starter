@@ -1,6 +1,9 @@
 {
   "name": "purescript-hedwig-starter",
   "version": "0.1.0",
+  "scripts": {
+    "start": "pulp --watch browserify --to index.js"
+  },
   "dependencies": {
     "purescript-hedwig": "^0.1.0"
   }
